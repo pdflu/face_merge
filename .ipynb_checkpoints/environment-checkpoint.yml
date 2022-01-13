@@ -1,0 +1,17 @@
+name: example-environment
+channels:
+  - face
+dependencies:
+  - numpy
+  - psutil
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
+  - partd
+  - bokeh
+  - dask
+  - opencv-python 
+  - cmake
+  - dlib
+  - scipy
